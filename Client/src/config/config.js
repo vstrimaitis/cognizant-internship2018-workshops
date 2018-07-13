@@ -1,2 +1,2 @@
-import * as config from "./cfg";
+import * as config from "./config.json";
 export {config};

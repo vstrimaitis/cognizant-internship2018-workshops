@@ -15,6 +15,7 @@
     "flow": "flow"
   },
   "devDependencies": {
-    "flow-bin": "^0.76.0"
+    "flow-bin": "^0.76.0",
+    "json-loader": "^0.5.7"
   }
 }
